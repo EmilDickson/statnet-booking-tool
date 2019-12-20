@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/statnet-booking-tool/static/css/main.2afe0ae3.chunk.css",
+    "main.js": "/statnet-booking-tool/static/js/main.7196aea1.chunk.js",
+    "main.js.map": "/statnet-booking-tool/static/js/main.7196aea1.chunk.js.map",
+    "runtime-main.js": "/statnet-booking-tool/static/js/runtime-main.56b5e4d7.js",
+    "runtime-main.js.map": "/statnet-booking-tool/static/js/runtime-main.56b5e4d7.js.map",
+    "static/js/2.783971eb.chunk.js": "/statnet-booking-tool/static/js/2.783971eb.chunk.js",
+    "static/js/2.783971eb.chunk.js.map": "/statnet-booking-tool/static/js/2.783971eb.chunk.js.map",
+    "index.html": "/statnet-booking-tool/index.html",
+    "precache-manifest.285519e80be9e203fe1ff320655e8e6b.js": "/statnet-booking-tool/precache-manifest.285519e80be9e203fe1ff320655e8e6b.js",
+    "service-worker.js": "/statnet-booking-tool/service-worker.js",
+    "static/css/main.2afe0ae3.chunk.css.map": "/statnet-booking-tool/static/css/main.2afe0ae3.chunk.css.map",
+    "static/js/2.783971eb.chunk.js.LICENSE": "/statnet-booking-tool/static/js/2.783971eb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56b5e4d7.js",
+    "static/js/2.783971eb.chunk.js",
+    "static/css/main.2afe0ae3.chunk.css",
+    "static/js/main.7196aea1.chunk.js"
+  ]
+}
