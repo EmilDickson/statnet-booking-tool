@@ -1,10 +1,36 @@
+body {
+  background-color: #282c34;
+  color: lightgrey;
+}
+
+button {
+  margin: 25px;
+}
+
+table {
+  color: lightgrey !important;
+}
+
+tr:hover {
+  color: white !important;
+}
+
 .App {
+  display: flex;
   text-align: center;
+  flex-direction: column;
+  align-items: center;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.emailMessage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -26,6 +52,18 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.tableWrapper {
+  display: flex;
+  max-width: 90%;
+  justify-content: center;
+}
+
+.toolTipWrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 450px;
 }
 
 @keyframes App-logo-spin {
