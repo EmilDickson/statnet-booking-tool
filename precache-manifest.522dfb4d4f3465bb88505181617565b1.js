@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cdf4f201b791edb8d15de6bfed58f6e",
+    "revision": "2e4e1051bb4cfca24c8bf41230b7d9e1",
     "url": "/statnet-booking-tool/index.html"
   },
   {
-    "revision": "ede97e809c63557e96d9",
+    "revision": "a60da5189d78982d142d",
     "url": "/statnet-booking-tool/static/css/main.2afe0ae3.chunk.css"
   },
   {
-    "revision": "273c25a5c2d53ef259a5",
-    "url": "/statnet-booking-tool/static/js/2.783971eb.chunk.js"
+    "revision": "4a14a3f100609413947c",
+    "url": "/statnet-booking-tool/static/js/2.648ab11c.chunk.js"
   },
   {
     "revision": "93314d634a079b009aaadd6c2b023ab6",
-    "url": "/statnet-booking-tool/static/js/2.783971eb.chunk.js.LICENSE"
+    "url": "/statnet-booking-tool/static/js/2.648ab11c.chunk.js.LICENSE"
   },
   {
-    "revision": "ede97e809c63557e96d9",
-    "url": "/statnet-booking-tool/static/js/main.7196aea1.chunk.js"
+    "revision": "a60da5189d78982d142d",
+    "url": "/statnet-booking-tool/static/js/main.6d245b78.chunk.js"
   },
   {
     "revision": "805daef1799162373733",

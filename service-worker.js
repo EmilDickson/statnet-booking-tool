@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/statnet-booking-tool/precache-manifest.285519e80be9e203fe1ff320655e8e6b.js"
+  "/statnet-booking-tool/precache-manifest.522dfb4d4f3465bb88505181617565b1.js"
 );
 
 self.addEventListener('message', (event) => {
